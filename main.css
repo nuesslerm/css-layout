@@ -1,7 +1,8 @@
 .red{background:linear-gradient(#c655be,#cf0404)}.blue{background:linear-gradient(#7abcff,#60abf8 44%,#4096ee)}
 .red{background:linear-gradient(#c655be,#cf0404)}.blue{background:linear-gradient(#7abcff,#60abf8 44%,#4096ee)}
 .red{background:linear-gradient(#c655be,#cf0404)}.blue{background:linear-gradient(#7abcff,#60abf8 44%,#4096ee)}
-.header-styles .nav-item,.header-styles .navbar-brand{cursor:pointer;text-transform:uppercase}.header-styles .logo-container{height:100%;width:6rem}
+
+.header-styles .navbar-brand{cursor:pointer}.header-styles .nav-item{cursor:pointer;text-transform:uppercase}.header-styles .logo-container{height:100%;width:6rem}.header-styles .navbar-nav{float:none;margin:0 auto;display:flex;flex-direction:row;text-align:center}.header-styles .navbar-nav>li{display:inline-block;float:none}
 .yellow{background:linear-gradient(#f3aaaa,#febf04)}
 
 /*!
